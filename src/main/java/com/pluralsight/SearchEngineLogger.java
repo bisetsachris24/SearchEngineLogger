@@ -28,6 +28,7 @@ public class SearchEngineLogger {
             // Log search action
             logAction("search : " + input);
         }
+        System.out.println(" I am exiting");
 // closing scanner
         theScanner.close();
     }
